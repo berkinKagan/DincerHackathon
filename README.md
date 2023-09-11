@@ -5,9 +5,9 @@
 2. [Features](#features)
 3. [Installation](#installation)
 4. [Getting Started](#getting-started)
-5. [Usage](#usage)
-6. [AI Model](#ai-model)
-7. [Contributing](#contributing)
+5. [AI Model](#ai-model)
+6. [Contributing](#contributing)
+7. [Important Warning](#license)
 
 
 ## 1. Introduction<a name="introduction"></a>
@@ -59,19 +59,16 @@ Now that you have installed the project follow these steps to get started:
 
 4. Access the user interface to manage orders, track inventory, and optimize warehouse operations.
 
-## 5. Usage<a name="usage"></a>
 
-For detailed usage instructions and documentation, please refer to the project's [wiki](https://github.com/your-username/warehouse-management/wiki).
-
-## 6. AI Model<a name="ai-model"></a>
+##5. AI Model<a name="ai-model"></a>
 
 Meta's "Segment Anything" technology inspires the AI model used in this project. It is trained to recognize and segment items within warehouse images. To train and fine-tune the AI model further, refer to the project's AI model documentation.
 
-## 7. Contributing<a name="contributing"></a>
+## 6. Contributing<a name="contributing"></a>
 
-We welcome contributions from the open-source community! If you'd like to contribute to this project, please follow our [contribution guidelines](CONTRIBUTING.md).
+We welcome contributions from the open-source community! If you'd like to contribute to this project.
 
-## 8. IMPORTANT WARNING<a name="license"></a>
+## 7. IMPORTANT WARNING<a name="license"></a>
 
 This project is still a work in progress, not completed!
 
